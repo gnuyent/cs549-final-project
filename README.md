@@ -7,7 +7,10 @@ ABSTRACT
 Using [Anaconda](https://www.anaconda.com/):
 
 ```sh
+conda install -c pytorch pytorch
+conda install -c anaconda numpy
 conda install -c conda-forge detectron2
+conda install -c conda-forge opencv
 ```
 
 ## Installation
